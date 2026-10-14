@@ -1,0 +1,6 @@
+{
+  "name": "Global Activity Construction",
+  "description": "Official corporate website of Global Activity Construction (Global Activity MMC), a leading engineering, infrastructure, and general contracting company in Azerbaijan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
